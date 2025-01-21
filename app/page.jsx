@@ -9,7 +9,7 @@ const Home = () => {
       <div className="container mx-auto h-full">
         <div className="flex flex-col md:flex-row items-center justify-between md:pt-8 md:pb-24">
           <div className="text-center md:text-left">
-            <div className="mb-40 md:mb-24"/>
+            <div className="mb-32 md:mb-24"/>
             <h1 className="h1 mb-6">
               Hello I'm <br />
               <span className="text-accent">Chisheng Chen</span>
