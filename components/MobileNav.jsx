@@ -11,6 +11,10 @@ const links = [
         path: "/",
     },
     {
+        name: "experience",
+        path: "/experience"
+    },
+    {
         name: "blog",
         path: "https://hackmd.io/@rota1001"
     },

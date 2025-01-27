@@ -19,6 +19,10 @@
   .h3 {
     @apply text-[20px] md:text-[24px] leading-[1.1] font-semibold
   }
+
+  .lang-zh {
+    font-family: "Fira Code", Monaco, Consolas, "Ubuntu Mono", monospace, "Microsoft YaHei", "PingFang TC", "Noto Sans TC", sans-serif;
+  }
 }
 
 

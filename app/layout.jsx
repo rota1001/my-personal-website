@@ -13,7 +13,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="en" className="scrollbar-thin scrollbar-track-zinc-800 scrollbar-thumb-zinc-500">
       <body className={jetbrainsMono.variable}>
         <Header/>
         <StairTransition/>
