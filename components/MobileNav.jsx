@@ -12,7 +12,7 @@ const links = [
     },
     {
         name: "blog",
-        path: "/blog"
+        path: "https://hackmd.io/@rota1001"
     },
     {
         name: "contact",
