@@ -6,17 +6,18 @@ import { ChevronDown } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 
 const achievements = [
-    { year: 2023, title: "Asia Taiwan Online Programming Contest", rank: "Silver Award" },
-    { year: 2023, title: "YTP 少年圖靈計畫決賽 (進專題)", rank: "rk.21" },
+    { year: 2025, title: "TSCCTF", rank: "rk.4 (Overall) / rk.1 (Qualified)" },
+    { year: 2025, title: "AIS3 EOF", rank: "銀質獎 (rk.2) & 炸彈超人獎" },
     { year: 2024, title: "MyFirstCTF", rank: "金質獎 (rk.2)"},
     { year: 2024, title: "AIS3 pre-exam", rank: "rk.13" },
-    { year: 2024, title: "成大高中生邀請賽協助驗題", rank: "" },
     { year: 2024, title: "Aegis Ctf 神盾盃資安競賽初賽", rank: "rk.11 (solo)" },
     { year: 2024, title: "Asia Taiwan Online Programming Contest", rank: "Silver Award" },
     { year: 2024, title: "ICPC Taichung Regional", rank: "Bronce Award" },
     { year: 2024, title: "NCPC 全國大專電腦軟體設計競賽", rank: "rk.4" },
     { year: 2024, title: "Meta Hacker Cup", rank: "rk.678/5000 (全球排名)" },
-    { year: 2024, title: "TSCCTF", rank: "rk.4 (Overall) / rk.1 (Qualified)" },
+    { year: 2024, title: "成大高中生邀請賽協助驗題", rank: "" },
+    { year: 2023, title: "Asia Taiwan Online Programming Contest", rank: "Silver Award" },
+    { year: 2023, title: "YTP 少年圖靈計畫決賽 (進專題)", rank: "rk.21" },
     // ... add more achievements as needed
   ]
 
